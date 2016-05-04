@@ -1,0 +1,19 @@
+{
+  "name": "ngconfbot",
+  "version": "1.0.0",
+  "description": "Tessel NgConf Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "www.github.com/tessel/t2-cli",
+  "keywords": [
+    "Tessel"
+  ],
+  "license": "MIT",
+  "readme": "Will tweet at #ngconf #ngconfbot is a new loudness record is set.",
+  "dependencies": {
+    "ambient-attx4": "^0.2.8",
+    "twitter": "^1.2.5"
+  }
+}
